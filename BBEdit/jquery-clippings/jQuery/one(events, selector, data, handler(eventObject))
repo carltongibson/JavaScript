@@ -1,0 +1,1 @@
+one(<#events#>, <#selector#>, <#data#>, <#handler(eventObject)#>)

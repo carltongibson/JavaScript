@@ -1,0 +1,1 @@
+queue(<#queueName#>, <#callback( next )#>)

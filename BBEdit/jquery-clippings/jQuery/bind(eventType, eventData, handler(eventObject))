@@ -1,0 +1,1 @@
+bind(<#eventType#>, <#eventData#>, <#handler(eventObject)#>)

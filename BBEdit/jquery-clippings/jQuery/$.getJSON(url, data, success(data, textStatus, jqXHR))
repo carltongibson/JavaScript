@@ -1,0 +1,1 @@
+$.getJSON(<#url#>, <#data#>, <#success(data, textStatus, jqXHR)#>)

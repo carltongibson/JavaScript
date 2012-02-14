@@ -1,0 +1,1 @@
+undelegate(<#selector#>, <#eventType#>, <#handler(eventObject)#>)

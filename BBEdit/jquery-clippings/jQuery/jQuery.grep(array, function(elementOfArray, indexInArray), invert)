@@ -1,0 +1,1 @@
+jQuery.grep(<#array#>, <#function(elementOfArray, indexInArray)#>, <#invert#>)

@@ -1,0 +1,1 @@
+$.get(<#url#>, <#data#>, <#success(data, textStatus, jqXHR)#>, <#dataType#>)

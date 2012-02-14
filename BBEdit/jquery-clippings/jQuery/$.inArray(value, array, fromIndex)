@@ -1,0 +1,1 @@
+$.inArray(<#value#>, <#array#>, <#fromIndex#>)

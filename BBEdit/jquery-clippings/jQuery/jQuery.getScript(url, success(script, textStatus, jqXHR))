@@ -1,0 +1,1 @@
+jQuery.getScript(<#url#>, <#success(script, textStatus, jqXHR)#>)

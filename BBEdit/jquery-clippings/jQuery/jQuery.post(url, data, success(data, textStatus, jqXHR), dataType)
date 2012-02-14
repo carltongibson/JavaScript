@@ -1,0 +1,1 @@
+jQuery.post(<#url#>, <#data#>, <#success(data, textStatus, jqXHR)#>, <#dataType#>)
